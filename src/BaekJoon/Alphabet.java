@@ -1,4 +1,4 @@
-// 1987 알파벳
+// 백준 1987 알파벳
 package BaekJoon;
 
 import java.io.*;
