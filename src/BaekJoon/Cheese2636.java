@@ -1,4 +1,4 @@
-// 백준 2336 치즈
+// 백준 2636 치즈
 package BaekJoon;
 
 import java.io.*;
