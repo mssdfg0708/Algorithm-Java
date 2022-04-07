@@ -49,14 +49,14 @@ public class Main_15961 {
 			pollModule();
 			
 			int selectedTypes = SELECT_TYPES;
-			if (checkCoupone())
+			if (checkCoupon())
 				selectedTypes += 1;
 			ANSWER = Math.max(ANSWER, selectedTypes);
 		}
 		System.out.println(ANSWER);
 	}
 
-	private static boolean checkCoupone() {
+	private static boolean checkCoupon() {
 
 		return COUNT_ARRAY[COUPON] == 0;
 	}
