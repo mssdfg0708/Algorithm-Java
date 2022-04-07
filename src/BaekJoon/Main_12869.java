@@ -1,3 +1,4 @@
+// 백준 12869 뮤탈리스크
 package BaekJoon;
 
 import java.io.*;
